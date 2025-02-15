@@ -1,3 +1,3 @@
 let data: string | number;
 
-let stat: "enable" | "disable";
+let status: "enable" | "disable";
